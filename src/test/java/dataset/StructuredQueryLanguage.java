@@ -8,9 +8,9 @@ import java.rmi.registry.Registry;
 public class StructuredQueryLanguage {
 
     @Step("Registry")
-    @DataProvider(name="registration")
-    public static Object[][] registration(){
-        Object[][] data ={{}};
+    @DataProvider(name = "registration")
+    public static Object[][] registration() {
+        Object[][] data = {{"Mahmudur Rahman", "mahmudur.rahman.sebpmmpo@gmail.com", "014125678Mr", "014125678Mr"}};
         return data;
     }
 }
