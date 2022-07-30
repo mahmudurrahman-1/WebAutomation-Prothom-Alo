@@ -1,25 +1,29 @@
 package pageobjects;
 
-import org.openqa.selenium.WebDriver;
+import driver.PageDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import utilities.Common;
 
 public class HomePage extends Common {
+    public HomePage() {
+        PageFactory.initElements(PageDriver.getCurrentDriver(), this);
+    }
+
     /*****
      * Locators
      */
     //login button
-    @FindBy(id="paloash_ct")
-    public WebElement closepopup;
-    @FindBy(className="button-m__type4__3WG12")
+    @FindBy(className = "button-m__type4__3WG12")
     public WebElement loginbutton;
 
     /*******
      * Actions
      */
+
     public void Login(){
-        closepopup.click();
         loginbutton.click();
     }
+
 }
