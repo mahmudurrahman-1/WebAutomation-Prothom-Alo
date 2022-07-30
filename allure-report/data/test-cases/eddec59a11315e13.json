@@ -1,0 +1,126 @@
+{
+  "uid" : "eddec59a11315e13",
+  "name" : "Log In testing",
+  "fullName" : "testcase.TCLogin.login",
+  "historyId" : "dd13be8431703a4f5efb088748f4e534",
+  "time" : {
+    "start" : 1659188660944,
+    "stop" : 1659188665297,
+    "duration" : 4353
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1659188648385,
+      "stop" : 1659188660820,
+      "duration" : 12435
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d4578a1449be009",
+      "name" : "Home Page",
+      "source" : "d4578a1449be009.png",
+      "type" : "image/png",
+      "size" : 838667
+    }, {
+      "uid" : "32fcaf1834f3c7f0",
+      "name" : "login Done",
+      "source" : "32fcaf1834f3c7f0.png",
+      "type" : "image/png",
+      "size" : 55122
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1659188665444,
+      "stop" : 1659188665949,
+      "duration" : 505
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcase.TCLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.TCLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Prothom-Alo"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcase.TCLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-C4C8A1FN"
+  }, {
+    "name" : "thread",
+    "value" : "2640@LAPTOP-C4C8A1FN.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "mahmudur.rahman.seebpmmpo@gmail.com"
+  }, {
+    "name" : "arg1",
+    "value" : "014125678Mr"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eddec59a11315e13.json",
+  "parameterValues" : [ "mahmudur.rahman.seebpmmpo@gmail.com", "014125678Mr" ]
+}

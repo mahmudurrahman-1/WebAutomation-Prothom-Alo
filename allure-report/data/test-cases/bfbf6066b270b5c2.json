@@ -1,0 +1,112 @@
+{
+  "uid" : "bfbf6066b270b5c2",
+  "name" : "Checking menu button",
+  "fullName" : "testcase.TCMenuitem.Menu",
+  "historyId" : "98e3d0882b231e2a06ae815d3b3ce25f",
+  "time" : {
+    "start" : 1659190480197,
+    "stop" : 1659190491735,
+    "duration" : 11538
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1659190467824,
+      "stop" : 1659190480114,
+      "duration" : 12290
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6d17b8f1afcec04f",
+      "name" : "Menubar",
+      "source" : "6d17b8f1afcec04f.png",
+      "type" : "image/png",
+      "size" : 394018
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1659190491846,
+      "stop" : 1659190492656,
+      "duration" : 810
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcase.TCMenuitem"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.TCMenuitem"
+  }, {
+    "name" : "testMethod",
+    "value" : "Menu"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Prothom-Alo"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcase.TCMenuitem"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-C4C8A1FN"
+  }, {
+    "name" : "thread",
+    "value" : "2036@LAPTOP-C4C8A1FN.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfbf6066b270b5c2.json",
+  "parameterValues" : [ ]
+}

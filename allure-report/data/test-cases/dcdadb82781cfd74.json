@@ -1,0 +1,132 @@
+{
+  "uid" : "dcdadb82781cfd74",
+  "name" : "Registration testing",
+  "fullName" : "testcase.TCRegistration.registration",
+  "historyId" : "6e9f229d1f61e716940a4111436664db",
+  "time" : {
+    "start" : 1659187360618,
+    "stop" : 1659187383230,
+    "duration" : 22612
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1659187349063,
+      "stop" : 1659187360511,
+      "duration" : 11448
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "14e23c253713ceb9",
+      "name" : "Home Page",
+      "source" : "14e23c253713ceb9.png",
+      "type" : "image/png",
+      "size" : 897474
+    }, {
+      "uid" : "d3d7ee81f4ac72c9",
+      "name" : "Registration Done",
+      "source" : "d3d7ee81f4ac72c9.png",
+      "type" : "image/png",
+      "size" : 60656
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1659187383440,
+      "stop" : 1659187384906,
+      "duration" : 1466
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcase.TCRegistration"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.TCRegistration"
+  }, {
+    "name" : "testMethod",
+    "value" : "registration"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Prothom-Alo"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcase.TCRegistration"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-C4C8A1FN"
+  }, {
+    "name" : "thread",
+    "value" : "17812@LAPTOP-C4C8A1FN.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Mahmudur Rahman"
+  }, {
+    "name" : "arg1",
+    "value" : "mahmudur.rahman.seebpmmpo@gmail.com"
+  }, {
+    "name" : "arg2",
+    "value" : "014125678Mr"
+  }, {
+    "name" : "arg3",
+    "value" : "014125678Mr"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcdadb82781cfd74.json",
+  "parameterValues" : [ "Mahmudur Rahman", "mahmudur.rahman.seebpmmpo@gmail.com", "014125678Mr", "014125678Mr" ]
+}

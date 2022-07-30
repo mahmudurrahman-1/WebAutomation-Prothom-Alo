@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element click intercepted: Element <span class=\"search-icon-wrapper staticHeader-m__search-icon__3clET\">...</span> is not clickable at point (210, 32). Other element would receive the click: <div class=\"loading-indicator-m__qt-loading-animation__3KmdT\">...</div>\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9d503c693e311a22c378c586bce43e49, clickElement {id=13539ed7-6736-4127-a5fc-6fdc56c78eba}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:56092}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56092/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (9d503c693e311a22c378c586bce43e49)] -> class name: search-icon-wrapper]\nSession ID: 9d503c693e311a22c378c586bce43e49",
+      "children" : [ {
+        "name" : "Search Module",
+        "uid" : "c74724b727849435",
+        "parentUid" : "804c6eab7d8931cca9bfb96822606679",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659191684041,
+          "stop" : 1659191685173,
+          "duration" : 1132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "lakshmipur" ]
+      } ],
+      "uid" : "804c6eab7d8931cca9bfb96822606679"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

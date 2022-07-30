@@ -1,0 +1,125 @@
+{
+  "uid" : "8a45e7d47efdbc14",
+  "name" : "Search Module",
+  "fullName" : "testcase.TCSearch.search",
+  "historyId" : "4faaf3eb8961477de000727c3fc32548",
+  "time" : {
+    "start" : 1659191835296,
+    "stop" : 1659191836088,
+    "duration" : 792
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1659191802110,
+      "stop" : 1659191816663,
+      "duration" : 14553
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b8daca31cd32b8f",
+      "name" : "Search Results",
+      "source" : "2b8daca31cd32b8f.png",
+      "type" : "image/png",
+      "size" : 71069
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1659191836124,
+      "stop" : 1659191838807,
+      "duration" : 2683
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcase.TCSearch"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase.TCSearch"
+  }, {
+    "name" : "testMethod",
+    "value" : "search"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Prothom-Alo"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcase.TCSearch"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-C4C8A1FN"
+  }, {
+    "name" : "thread",
+    "value" : "4172@LAPTOP-C4C8A1FN.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "al saudia"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "64ea79c7b01e84f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191689884,
+        "stop" : 1659191692134,
+        "duration" : 2250
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a45e7d47efdbc14.json",
+  "parameterValues" : [ "al saudia" ]
+}

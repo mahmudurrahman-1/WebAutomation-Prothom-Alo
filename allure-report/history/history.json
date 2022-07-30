@@ -1,0 +1,326 @@
+{
+  "3056462f1c10aac53e2236b32eaf6cf1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cee97d8057e2eca5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191828806,
+        "stop" : 1659191830989,
+        "duration" : 2183
+      }
+    } ]
+  },
+  "6e9f229d1f61e716940a4111436664db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcdadb82781cfd74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659187360618,
+        "stop" : 1659187383230,
+        "duration" : 22612
+      }
+    } ]
+  },
+  "dd13be8431703a4f5efb088748f4e534" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eddec59a11315e13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659188660944,
+        "stop" : 1659188665297,
+        "duration" : 4353
+      }
+    } ]
+  },
+  "4faaf3eb8961477de000727c3fc32548" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a45e7d47efdbc14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191835296,
+        "stop" : 1659191836088,
+        "duration" : 792
+      }
+    } ]
+  },
+  "c756a906bbce6cd1d3fb767e7cdec9d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8bc1b4514cf2dc16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659185732334,
+        "stop" : 1659185755010,
+        "duration" : 22676
+      }
+    } ]
+  },
+  "a811c9aac2bbd9a45adab1b0c101fdac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7598bd426b692bf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191830994,
+        "stop" : 1659191831464,
+        "duration" : 470
+      }
+    } ]
+  },
+  "3564bdf6f2d34afe30fe0669183c05ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2db0978f6c617cbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191831483,
+        "stop" : 1659191832942,
+        "duration" : 1459
+      }
+    } ]
+  },
+  "bb5e9fc27be4e2d84fa7ffd47fe022b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6abcb97f9459bb17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191822118,
+        "stop" : 1659191824730,
+        "duration" : 2612
+      }
+    } ]
+  },
+  "90fb49494a9461e228157a2aa3e1ad4a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86764755ef27296f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191816777,
+        "stop" : 1659191817698,
+        "duration" : 921
+      }
+    } ]
+  },
+  "852ba4a781af000254ce405a7acb2ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "412d5aab36606c15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191832951,
+        "stop" : 1659191835260,
+        "duration" : 2309
+      }
+    } ]
+  },
+  "98e3d0882b231e2a06ae815d3b3ce25f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38f8c3737285380c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191528249,
+        "stop" : 1659191539898,
+        "duration" : 11649
+      }
+    } ]
+  },
+  "f16842b0e3978e7c4c5e51b051a7578" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0f509133f176af7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191820401,
+        "stop" : 1659191822081,
+        "duration" : 1680
+      }
+    } ]
+  },
+  "94a2cff092919028f4d2176b2b60c6ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61e1e250b65788c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191826141,
+        "stop" : 1659191827024,
+        "duration" : 883
+      }
+    } ]
+  },
+  "27d14e48d3ec16ec3bedaf98b84b8dca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e241b406df9a290b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191827076,
+        "stop" : 1659191828727,
+        "duration" : 1651
+      }
+    } ]
+  },
+  "46da3a1324cf60a361eec40cabd0b2c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b19a0c295d1c9707",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191824745,
+        "stop" : 1659191825939,
+        "duration" : 1194
+      }
+    } ]
+  },
+  "e8c6e7a0f562bb90ce503514f75685b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4dea063016410fd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659191817866,
+        "stop" : 1659191820348,
+        "duration" : 2482
+      }
+    } ]
+  },
+  "f1d0b1ff6e0035c59f3c8f8eb2df1821" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c74724b727849435",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <span class=\"search-icon-wrapper staticHeader-m__search-icon__3clET\">...</span> is not clickable at point (210, 32). Other element would receive the click: <div class=\"loading-indicator-m__qt-loading-animation__3KmdT\">...</div>\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9d503c693e311a22c378c586bce43e49, clickElement {id=13539ed7-6736-4127-a5fc-6fdc56c78eba}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:56092}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56092/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (9d503c693e311a22c378c586bce43e49)] -> class name: search-icon-wrapper]\nSession ID: 9d503c693e311a22c378c586bce43e49",
+      "time" : {
+        "start" : 1659191684041,
+        "stop" : 1659191685173,
+        "duration" : 1132
+      }
+    } ]
+  }
+}
