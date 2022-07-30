@@ -8,6 +8,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.opera.OperaDriver;
 import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
 
 import java.time.Duration;
 
@@ -15,7 +16,7 @@ import java.time.Duration;
 public class BaseDriver {
     WebDriver driver = null;
     public String baseurl = "https://www.prothomalo.com/";
-
+      @BeforeSuite
     public void setup() {
         String browser = System.getProperty("browser", "chrome");
         if (browser.contains("chrome")) {
