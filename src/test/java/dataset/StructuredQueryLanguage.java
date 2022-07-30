@@ -10,7 +10,7 @@ public class StructuredQueryLanguage {
     @Step("Registry")
     @DataProvider(name = "registration")
     public static Object[][] registration() {
-        Object[][] data = {{"Mahmudur Rahman", "mahmudur.rahman.sebpmmpo@gmail.com", "014125678Mr", "014125678Mr"}};
+        Object[][] data = {{"Mahmudur Rahman", "mahmudur.rahman.seebpmmpo@gmail.com", "014125678Mr", "014125678Mr"}};
         return data;
     }
 }
